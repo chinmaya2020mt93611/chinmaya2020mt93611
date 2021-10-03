@@ -233,11 +233,11 @@ body {
     color: #000;
 }
 
-.student-profile .card {
+.bits-profile .card {
     border-radius: 10px;
 }
 
-.student-profile .card .card-header .profile_img {
+.bits-profile .card .card-header .profile_img {
     width: 150px;
     height: 150px;
     object-fit: cover;
@@ -246,18 +246,18 @@ body {
     border-radius: 50%;
 }
 
-.student-profile .card h3 {
+.bits-profile .card h3 {
     font-size: 20px;
     font-weight: 700;
 }
 
-.student-profile .card p {
+.bits-profile .card p {
     font-size: 16px;
     color: #000;
 }
 
-.student-profile .table th,
-.student-profile .table td {
+.bits-profile .table th,
+.bits-profile .table td {
     font-size: 14px;
     padding: 5px 10px;
     color: #000;
